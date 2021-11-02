@@ -1,3 +1,3 @@
 # TASEP
-Simulation of closed TASEP with interacting particles
-yWith NN or NN + NNN interactions.
+Simulation of TASEP model with periodic boundaries with interacting particles.
+We considered nearest neighbor (NN) and next-nearest neighbor(NNN) interactions.
